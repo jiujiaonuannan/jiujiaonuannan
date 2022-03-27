@@ -41,15 +41,3 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
-Some interesting small cards are as follows!
-
-
-
-<p align="center">
-	<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=haoruilee&column=8&theme=monokai" alt="My GitHub his" width="500"/></p>
-	<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haoruilee&theme=monokai" alt="Languages" width="500"></p>
-        <p align="center"><img src="https://genshin-card.getloli.com/12/75757636.png" width="500"></p>
-	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
-	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
-</p>
