@@ -3,24 +3,20 @@
 <p align="center">
 	<a href="https://blog.csdn.net/weixin_46233323"><img src="https://img.shields.io/badge/blog-150k+%20pageview-brightgreen" alt="Blog"></a>
 	<a href="https://cswu-challenge.github.io/"><img src="https://img.shields.io/github/last-commit/CSWU-Challenge/CSWU-Challenge.github.io?color=orange&label=SEU-HPC%20Tutorial" alt="HPC-Tutotial"></a>
-	<a href="mailto:haoruileee@gmail.com"><img src="https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com"></a>
-</p>
-
-<p align="center">
-	<p align="center">Wechat ID <code>echo -n 'bGVlX3dlY2hhdHRpbmc=' | base64 -d</code></p>
+	<a href="mailto:alvin.wang1202@gmail.com"><img src="https://img.shields.io/badge/-alvin.wang1202@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvin.wang1202@gmail.com"></a>
 </p>
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-### I'm Haorui Li
+### I'm Alvin
 
 - 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
 - 🙋 **I'm looking for research chance such as research assistant or AI intern**! Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
-- 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
+- 💬 Ask me about C++, Python and my projects on alvin.wang1202@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 - ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player, [QQMusic-Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
 
