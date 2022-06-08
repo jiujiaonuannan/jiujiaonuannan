@@ -12,7 +12,6 @@
 ### I'm Alvin
 
 
-
 - 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
 - 🙋 **I'm looking for research chance such as research assistant or AI intern**! Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
